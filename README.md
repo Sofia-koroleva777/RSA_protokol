@@ -5,6 +5,6 @@
 1. fff
 2. vvrvr
 3. eqw
-*c=t**e mod N*/шифр
+*c=t**e mod N*/шифр  
 *t= c**d mod N*/дешифр
 1. p и q - простые числа q = 181 p=683
